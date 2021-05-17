@@ -24,7 +24,7 @@
 ```
 # PostgreSQL
 ```
---tamper=between,charencode,charunicodeencode,equaltolike,greatest,multiplespaces,nonrecursivereplacement,percentage,randomcase,securesphere,space2comment,space2plus,space2randomblank,xforwardedfor
+--tamper=between,charencode,charunicodeencode,equaltolike,greatest,multiplespaces,percentage,randomcase,space2comment,space2plus,space2randomblank,xforwardedfor
 ```
 # SAP MaxDB
 ```
